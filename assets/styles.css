@@ -1,0 +1,125 @@
+@font-face {
+  font-family: "Nexa";
+  src: url("./font/Nexa/Nexa\ Bold.otf");
+  src: url("./font/Nexa/nexa-extrabold.ttf");
+  src: url("./font/Nexa/Nexa\ Light.otf");
+  src: url("./font/Nexa/NexaBlack.otf");
+  src: url("./font/Nexa/NexaBlackItalic.otf");
+  src: url("./font/Nexa/NexaBold.otf");
+  src: url("./font/Nexa/NexaBoldItalic.otf");
+  src: url("./font/Nexa/NexaBook.otf");
+  src: url("./font/Nexa/NexaBookItalic.otf");
+  src: url("./font/Nexa/NexaLight.otf");
+  src: url("./font/Nexa/NexaLightItalic.otf");
+  src: url("./font/Nexa/NexaThin.otf");
+  src: url("./font/Nexa/NexaThinItalic.otf");
+  
+}
+
+:root {
+  --bg-white-900: #ffffff;
+  --text-white-900: #ffffff;
+  --text-grey-900: #808080;
+  --text-blue-900: #001551;
+  --text-blue-800: #09A4F4;
+  --text-blue-600: #07B5E7;
+  --border-blue-200: #73A1C2;
+}
+
+body {
+  background-color: #fff;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
+  font-family: "Nexa", sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+}
+
+
+:before,
+:after {
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  vertical-align: middle;
+  max-width: 100%;
+}
+
+.principal-btn {
+  background-color: var(--text-blue-600);
+  color: var(--text-white-900);
+  padding: 10px 40px;
+  text-align: center;
+  border-radius: 50px;
+  border: none;
+  font-weight: bold;
+  font-size: 15px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.text {
+  color: var(--text-grey-900);
+}
+
+.text-bold {
+  color: var(--text-grey-900);
+  font-weight: 600;
+}
+
+.title {
+  color: var(--text-blue-900);
+  font-size: 2.2rem;
+  margin-bottom: 25px;
+  font-weight: 400;
+
+}
+
+.title-dark {
+  color: var(--text-blue-900);
+  font-size: 2.6rem;
+  margin-bottom: 25px;
+  font-weight: 400;
+}
+
+.dark-text {
+  color: var(--text-blue-900);
+}
+.bold-text {
+font-weight: bold;
+}
+.subtitle {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: var(--text-blue-600);
+  margin-bottom: 20px;
+}
+
+.darksubtitle {
+  font-size: 1.6rem;
+  font-weight: bold;
+  color: var(--text-blue-900);
+  margin-bottom: 20px;
+  
+}
+.lh-60 {
+line-height: 60px;
+}

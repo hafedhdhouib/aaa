@@ -1,0 +1,234 @@
+[{"name":"Ariena",
+"Delegation":[
+    {
+        "name":"Ariena Ville"
+    },
+    {
+        "name":"Ettadhamen"
+    },
+    {
+        "name":"Kalaat el-Andalous"
+    },
+    {
+        "name":"La Soukra"
+    },
+    {
+        "name":"Mnihla"
+    },
+    {
+        "name":"Raoued"
+    },
+    {
+        "name":"Sidi Thabet"
+    }
+]},
+{"name":"Manouba",
+"Delegation":[  {
+    "name":"Borj El Amri"
+},
+{
+    "name":"Djedeida"
+},
+{
+    "name":"Douar Hicher"
+},
+{
+    "name":"El Batan"
+},
+{
+    "name":"La Manouba"
+},
+{
+    "name":"Monaguia"
+},
+{
+    "name":"oued Ellil"
+},
+{
+    "name":"Tebourba"
+}]
+},
+{"name":"Nabeul",
+"Delegation":[
+{
+    "name":"Béni Khalled"
+},
+{
+    "name":"Béni Khiar"
+},
+{
+    "name":"Bou Argoub"
+},
+{
+    "name":"Dar Chaâbane"
+},
+{
+    "name":"El Haouaria"
+},
+{
+    "name":"El Mida"
+},
+{
+    "name":"Grombalia"
+}
+,
+{
+    "name":"Hammem Ghezèze"
+},
+{
+    "name":"Hammamet"
+},
+{
+    "name":"Kélibia"
+},
+{
+    "name":"Korba"
+},
+{
+    "name":"Menzal Bouzelfa"
+}
+,
+{
+    "name":"Menzal Temime"
+}
+,
+{
+    "name":"Nabeul"
+}
+,
+{
+    "name":"Soliman"
+},
+{
+    "name":"Takelsa"
+}
+]},
+{"name":"Sousse",
+"Delegation":[
+{
+    "name":"Akouda"
+},
+{
+    "name":"Bouficha"
+},
+{
+    "name":"Enfida"
+},
+{
+    "name":"Hammam Sousse"
+},
+{
+    "name":"Hergla"
+},
+{
+    "name":"Kalâa Kebira"
+},
+{
+    "name":"Kalâa Seghira"
+},
+{
+    "name":"Kondar"
+},
+{
+    "name":"M'saken"
+},
+{
+    "name":"Sidi Bou Ali"
+},
+{
+    "name":"Sidi El Hani"
+},
+{
+    "name":"Sousse Jawhara"
+},
+{
+    "name":"Sousse Médina"
+},
+{
+    "name":"Sousse Riadh"
+},
+{
+    "name":"Sousse Sidi Abdelhamid"
+}
+]},
+{"name":"Ben Arous",
+"Delegation":[
+{
+    "name":"Ben Arous"
+},
+{
+    "name":"Boumhel"
+},
+{
+    "name":"El Mourouj"
+},
+{
+    "name":"Ezzahra"
+},
+{
+    "name":"Fouchana"
+},
+{
+    "name":"Hammam Chott"
+},
+{
+    "name":"Hammem Lif"
+},
+{
+    "name":"Mohamedia"
+},
+{
+    "name":"Medina Jedida"
+},
+{
+    "name":"Mégrin"
+},
+{
+    "name":"Mornag"
+},
+{
+    "name":"Radès"
+}
+]},
+{"name":"Monastir",
+"Delegation":[
+{
+    "name":"Bekalta"
+},
+{
+    "name":"Bembla"
+},
+{
+    "name":"Beni hassen"
+},
+{
+    "name":"Jemmla"
+},
+{
+    "name":"Ksar Hellal"
+},
+{
+    "name":"Ksibet el-Médiouni"
+},
+{
+    "name":"Moknine"
+},
+{
+    "name":"Monastir"
+},
+{
+    "name":"Ouerdanine"
+},
+{
+    "name":"Sahline"
+},
+{
+    "name":"Sayda-Lamta"
+},
+{
+    "name":"Téboulba"
+},
+{
+    "name":"Zéramdine"
+}
+]}]

@@ -1,0 +1,153 @@
+/* main  */
+
+header {
+    height: 100vh;
+  }
+  
+  .header-image-container {
+    padding: 0;
+  }
+  
+  .header-descreption-container {
+    max-width: 500px;
+  }
+
+  
+  .header-descreption-image img {
+    width: 92%;
+    display: block;
+    float: right;
+  }
+  .header-descreption-image iframe {
+    width: 92%;
+    display: block;
+    float: right;
+  }
+  
+  .titles-container {
+    width: 85%;
+    margin: auto;
+  }
+  
+  .INFIRMIERs-img {
+    height: 500px;
+  }
+  
+  .card-home {
+    width: 100%;
+    max-width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    cursor: pointer;
+  }
+  
+  .card-home img {
+    height: 550px;
+  }
+  
+  .card-comment-marche img {
+    height: 400px;
+    width: auto;
+  
+  }
+  
+  .card-comment-marche {
+    width: 100%;
+    max-width: 400px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+  }
+  
+  .comment-marche-image {
+    width: 100%;
+  }
+  
+  .comment-marche-title {
+    color: var(--text-blue-800);
+    text-align: center;
+  }
+  .download-img-container {
+    max-width: 400px;
+    margin: auto;
+  }
+  .download-container {
+    background-color:#B5E4FC ;
+    width: 100%;
+    padding: 50px 70px;
+  }
+  .download-descreption-container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: center;
+  }
+  .download-descreption-image-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  }
+  .download-descreption-image-container  img{
+  max-width: 150px;
+  }
+  
+  
+  
+  .footer-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: auto;
+  }
+  .footer-form input{
+  width: 80%;
+  border: 1px solid #73A1C2;
+  height: 60px;
+  padding: 7px;
+  
+  }
+  .footer-form textarea{
+    width: 80%;
+    height: 180px;
+    border: 1px solid #73A1C2;
+    
+  padding: 7px;
+    }
+  .footer-descreption {
+    max-width: 450px;
+    width: 100%;
+    height: 420px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .logo-footer{
+    width: 75px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  
+  @media screen and (max-width: 768px) {
+    header {
+     /* height: 100%;*/
+    }
+    .inf-vert-img {
+      display:none
+    }
+    .home-service-mobile-disposition {
+      align-items: center !important;
+      text-align: center;
+    }
+    .download-descreption-image-container {
+      flex-direction: column;
+    }
+  }

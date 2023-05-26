@@ -1,0 +1,42 @@
+{
+    "governorate":[
+
+    {"name":"Sfax",
+    "Delegation":[
+        {
+            "name":"Gremda"
+        },
+        {
+            "name":"Al Ain"
+        },
+        {
+            "name":"Mahrès"
+        },
+        {
+            "name":"Sidi Mansour"
+        },
+        {
+            "name":"Menzel Chaker"
+        },
+        {
+            "name":"Sakiet Ezzit"
+        },
+        {
+            "name":"Sakiet Eddeyer"
+        },
+        {
+            "name":"Chihiya"
+        },
+        {
+            "name":"Sfax Ville"
+        }
+        ,
+        {
+            "name":"Thyna"
+        }
+    ]}
+
+
+    ]
+
+}
